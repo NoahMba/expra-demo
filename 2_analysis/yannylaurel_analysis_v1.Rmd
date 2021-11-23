@@ -28,7 +28,7 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 ## 1a. Setup
 Hello!
 
-Let's get started. You should have downloaded the Yanny/Laurel demo repository from Github, but if not you can do so now via [this link](https://github.com/avakiai/yanny-laurel-demo). 
+Let's get started. You should have downloaded the Yanny/Laurel demo repository from Github, but if not you can do so now via [this link](https://github.com/NoahMba/expra-demo). 
 Save it someplace convenient. 
 If you already have the repository downloaded, you can make sure you have this up-to-date file; you can either do this by downloading this individual script as well as the file ```helper_functions.R``` from the ```2_analysis``` folder, or using git (if you are familiar with it, otherwise no stress!).
 
